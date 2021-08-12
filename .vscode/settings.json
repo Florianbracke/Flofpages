@@ -1,0 +1,8 @@
+{
+    "powermode.enabled": true,
+    "powermode.explosionDuration": 500,
+    "powermode.enableShake": false,
+    "cSpell.words": [
+        "endsection"
+    ]
+}
